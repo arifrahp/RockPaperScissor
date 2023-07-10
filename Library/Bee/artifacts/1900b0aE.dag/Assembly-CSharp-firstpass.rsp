@@ -327,6 +327,8 @@
 -r:"D:/Tempat Software Terinstall/UnityEditor/2021.3.16f1/Editor/Data/NetStandard/ref/2.1.0/netstandard.dll"
 -r:"D:/Tempat Software Terinstall/UnityEditor/2021.3.16f1/Editor/Data/PlaybackEngines/AndroidPlayer/Unity.Android.Gradle.dll"
 -r:"D:/Tempat Software Terinstall/UnityEditor/2021.3.16f1/Editor/Data/PlaybackEngines/AndroidPlayer/Unity.Android.Types.dll"
+-r:"D:/Tempat Software Terinstall/UnityEditor/2021.3.16f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Common.dll"
+-r:"D:/Tempat Software Terinstall/UnityEditor/2021.3.16f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.2D.Sprite.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.EditorCoroutines.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Performance.Profile-Analyzer.Editor.ref.dll"
